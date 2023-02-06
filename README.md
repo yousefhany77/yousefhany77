@@ -8,7 +8,6 @@ As a Full Stack Engineer, I have developed and architected high-performing web a
 
 - 📫 How to reach me **contact@youssefhany.dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e-EbARL3gdMpgV3mMzwK4oJ5HfM66NQO/view?usp=share_link](https://drive.google.com/file/d/1e-EbARL3gdMpgV3mMzwK4oJ5HfM66NQO/view?usp=share_link)
 
 
 
