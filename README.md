@@ -1,5 +1,5 @@
 # Yousef Hany 🚀
-## **`Frontend Web Devloper (React//Next.js)`**
+## **`Frontend Web Devloper (React/Next.js)`**
 
 As a Full Stack Engineer, I have developed and architected high-performing web applications using various technologies including React.js, Next.js, TypeScript, and Tailwind CSS. My projects have included features such as real-time audio chat, job board platforms, and real-time cinema experience . In these projects, I have utilized technologies such as Redis, AWS EC2, Agora SDK, Firebase, Stripe, TMDB API, Node.js, and Algolia to ensure efficient and effective deployment, performance, and user experience. I have also focused on ensuring top-notch software quality through testing and implementing design principles for clean and user-friendly interfaces.
 #
