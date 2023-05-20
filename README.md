@@ -7,6 +7,7 @@ As a Full Stack Engineer, I have developed and architected high-performing web a
 - 👨‍💻 All of my projects are available at [https://www.youssefhany.dev/](https://www.youssefhany.dev/)
 
 - 📫 How to reach me **contact@youssefhany.dev**
+- published https://www.npmjs.com/package/prisma-error-handling/
 
 
 
